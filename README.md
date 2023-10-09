@@ -36,10 +36,10 @@ git checkout <nombre-de-la-rama>
 git status
 ```
 > Nos arroja toda la información necesaria de la rama, por ejemplo:
-- Si está actualizada.
-- Si existe algún pull pendiente.
-- Si archivos se encuentran en stage, unstage o untracked.
-- Si se crearon, modificaron o eliminaron archivos.
+> - Si está actualizada.
+> - Si existe algún pull pendiente.
+> - Si archivos se encuentran en stage, unstage o untracked.
+> - Si se crearon, modificaron o eliminaron archivos.
 ```
 git revert
 ```
